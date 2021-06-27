@@ -1,1 +1,1 @@
-# coursera_course_HTML_CSS_and_Javascript_for_Web_Developers
+HTML, CSS, and Javascript for Web Developers > Week 2 > Module 2 > Coding Assignment
